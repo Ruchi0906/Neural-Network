@@ -1,2 +1,2 @@
 # Neural-Network
-Prediction of Diabetes using  neural network
+Prediction of Attrition using  neural network
